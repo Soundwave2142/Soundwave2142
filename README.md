@@ -1,5 +1,3 @@
-### Soundwave2142
-
 ---
 - Commercially working on `PHP` and `Symfony Framework`.
 - Learning `Python` and it's `Tkinter` GUI as well as `C#` and `.NET` for personal and open-source projects.
