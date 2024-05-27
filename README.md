@@ -1,4 +1,4 @@
-<img src="https://sw-projects.net/build/images/static/flag_ukraine.png" height="20" width="10000px" alt="">
+<img src="https://sw-projects.net/build/images/static/flag_ukraine.png" height="20" width="1000px" alt="">
 
 ---
 - Commercially working with `PHP` and `Symfony Framework`.
